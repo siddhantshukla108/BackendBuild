@@ -1,10 +1,10 @@
 const asyncHandler = (reuestHandler) => {
-    (req, res, next) => {
-    Promise.resolve(reuestHandler(req, res, next)).catch((err)=> next(err))
-        
-}
-}
-export {asyncHandler}
+  return (req, res, next) => {
+    Promise.resolve(reuestHandler(req, res, next)).catch((err) => next(err));
+  };
+};
+
+export { asyncHandler };
 
 
 
@@ -15,6 +15,6 @@ export {asyncHandler}
 //        res.status(err.code||500).json({
 //         success: false,
 //         message: error.message || "Internal Server Error"
-//        }); 
+//        });
 //     }
 // }
