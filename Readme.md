@@ -80,14 +80,14 @@ Before running this project, ensure you have the following installed on your sys
 
 ## 🏗️ Project Structure
 
-src/
-├── controllers/ # Route controllers (handler functions)
-├── models/ # Mongoose models (User, Video, etc.)
-├── middleware/ # Custom middleware (auth, upload, etc.)
-├── routes/ # API route definitions
-├── utils/ # Helper functions (ApiResponse, ApiError, etc.)
-├── constants.js # Application constants
-└── app.js # Express app configuration
+src/ <br/>
+├── controllers/ # Route controllers (handler functions) <br/>
+├── models/ # Mongoose models (User, Video, etc.) <br/>
+├── middleware/ # Custom middleware (auth, upload, etc.) <br/>
+├── routes/ # API route definitions <br/>
+├── utils/ # Helper functions (ApiResponse, ApiError, etc.) <br/>
+├── constants.js # Application constants <br/>
+└── app.js # Express app configuration <br/>
 
 
 ## 📡 API Reference
