@@ -1,4 +1,4 @@
-# deVyneTube-Backend 🎥
+# DeVyneTube-Backend 🎥
 
 A robust, scalable, and feature-rich backend service for a YouTube-like video sharing platform, built with Node.js, Express, and MongoDB. This server handles user authentication, video uploads, processing, streaming, likes, comments, and subscriptions.
 
@@ -141,15 +141,12 @@ Contributions are always welcome! Please feel free to fork this repository, make
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
+## 📞 Contact Me
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## 👤 Contact
-
-Your Name - [@your-twitter-handle](https://twitter.com/your-handle) - your.email@example.com
-
-Project Link: [https://github.com/your-username/deVyneTube-Backend](https://github.com/your-username/deVyneTube-Backend)
+📧 **Email:** shuklasiddhant365@gmail.com  
+💼 **LinkedIn:** [siddhant-shukla108](https://www.linkedin.com/in/siddhant-shukla108/) <br/>
+🐦 **Twitter:** [siddhant_shuk1a](https://x.com/siddhant_shuk1a)  
+🌍 **Portfolio:** [siddhantshukla-portfolio](https://siddhantshukla-portfolio.netlify.app/)
 
 ---
 
